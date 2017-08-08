@@ -9,6 +9,6 @@ Humidity is shown on the top bar in units of 10%; temperature is shown on the bo
 Requires [pytz](https://pypi.python.org/pypi/pytz), [pyowm](https://github.com/csparpa/pyowm) and [unicornhathd](https://github.com/pimoroni/unicorn-hat-hd)
 
 ## Usage
-In order for the weather API to function properly you'll need to get an API key from openweathermap.org and insert it on line 11 of weatherclock.py. Next, enter your location on line 12.
+In order for the weather API to function properly you'll need to sign up and get an API key from openweathermap.org and insert it on line 11 of weatherclock.py. Next, enter your location on line 12.
 
 If you want to use a different timezone, enter that on line 16.
